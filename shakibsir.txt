@@ -65,3 +65,11 @@ where dept_id = 7;
 dbms_output.put_line('dept_name'||v_dept_name);
 end;
 /
+
+
+drop all tables:
+
+drop table relation;
+drop table book;
+drop table course;
+drop table dept;
